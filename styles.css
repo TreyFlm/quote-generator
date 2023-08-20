@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #003459;
+}
+
+.generator {
+  text-align: center;
+  margin-top: 300px;
+}
+
+.generator h1 {
+  font-size: 60px;
+  color: #e9ecef;
+}
+
+#quoteDisplay {
+  display: flex;
+  justify-content: center;
+}
+
+#gen-btn {
+  width: 10%;
+  padding: 11px;
+  background-color: white;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.quote-text {
+  text-align: center;
+  padding-top: 30px;
+  color: #e9ecef;
+  font-size: 20px;
+}
